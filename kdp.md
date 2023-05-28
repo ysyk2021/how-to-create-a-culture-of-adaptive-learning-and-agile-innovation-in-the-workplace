@@ -31,7 +31,7 @@ MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles
 17. Performance improvement
 18. Team building
 19. Project management
-20. Strategic planning.
+20. Strategic planning
 
 
 

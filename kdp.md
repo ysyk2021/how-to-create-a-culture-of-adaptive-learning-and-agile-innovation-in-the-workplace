@@ -8,7 +8,7 @@ This book is designed to provide practical strategies and insights for creating 
 
 Whether you are a manager, team leader, or individual contributor, this book will provide valuable insights and guidance for building a culture of adaptive learning and agile innovation and advancing your career. By the end of the book, readers will have a solid understanding of the importance of adaptive learning and agile innovation and the tools and strategies necessary to create a culture of innovation and adaptability in the workplace.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 

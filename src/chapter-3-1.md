@@ -1,5 +1,3 @@
-The Importance of Embracing a Growth Mindset and Continuous Learning in Creating a Culture of Adaptive Learning and Agile Innovation
-===================================================================================================================================================================================================
 
 Embracing a growth mindset and continuous learning is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of embracing a growth mindset and continuous learning in creating a culture of adaptive learning and agile innovation.
 

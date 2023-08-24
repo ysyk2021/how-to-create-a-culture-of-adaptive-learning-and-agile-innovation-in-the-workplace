@@ -1,5 +1,3 @@
-Using Prototyping and Minimum Viable Product (MVP) Techniques
-=====================================================================================================================
 
 Encouraging experimentation and risk-taking is critical for promoting innovation and driving growth in the workplace. In this chapter, we will explore how to use prototyping and minimum viable product (MVP) techniques as part of encouraging experimentation and risk-taking.
 

@@ -1,5 +1,3 @@
-Using Mentorship and Learning Opportunities
-==================================================================================================
 
 Supporting employee growth and development is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore how to use mentorship and learning opportunities as part of supporting employee growth and development.
 

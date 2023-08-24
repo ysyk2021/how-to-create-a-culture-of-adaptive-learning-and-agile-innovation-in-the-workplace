@@ -1,5 +1,3 @@
-Chapter 7: Building a Culture of Psychological Safety
-=====================================================
 
 Building a culture of psychological safety is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of building a culture of psychological safety, strategies for doing so, and how to use open communication and constructive feedback practices.
 

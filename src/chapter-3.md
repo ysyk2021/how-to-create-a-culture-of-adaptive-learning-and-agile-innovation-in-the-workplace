@@ -1,5 +1,3 @@
-Chapter 3: Embracing a Growth Mindset and Continuous Learning
-=============================================================
 
 Embracing a growth mindset and continuous learning is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of embracing a growth mindset and continuous learning, strategies for doing so, and how to use self-reflection and feedback techniques.
 

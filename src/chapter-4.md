@@ -1,5 +1,3 @@
-Chapter 4: Implementing Agile Methodologies and Processes
-=========================================================
 
 Implementing agile methodologies and processes is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the role of implementing agile methodologies and processes in creating a culture of adaptive learning and agile innovation, strategies for doing so, and how to use design thinking and lean startup principles.
 

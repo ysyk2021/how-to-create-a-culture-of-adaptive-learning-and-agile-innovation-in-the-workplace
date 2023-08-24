@@ -1,5 +1,3 @@
-The Role of Implementing Agile Methodologies and Processes in Creating a Culture of Adaptive Learning and Agile Innovation
-=====================================================================================================================================================================================
 
 Implementing agile methodologies and processes is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the role of implementing agile methodologies and processes in creating a culture of adaptive learning and agile innovation.
 

@@ -1,5 +1,3 @@
-The Importance of Building a Culture of Psychological Safety in Creating a Culture of Adaptive Learning and Agile Innovation
-===================================================================================================================================================================================
 
 Building a culture of psychological safety is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of building a culture of psychological safety in creating a culture of adaptive learning and agile innovation.
 

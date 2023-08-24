@@ -1,5 +1,3 @@
-Strategies for Using Adaptive Learning and Agile Innovation Skills to Address Workplace Challenges
-==========================================================================================
 
 Adaptive learning and agile innovation skills can be applied to a wide range of workplace challenges. Here are some strategies for using these skills to address workplace challenges:
 

@@ -1,5 +1,3 @@
-Analyzing Feedback and Performance Data and KPIs
-=====================================================================================================================
 
 Measuring adaptive learning and agile innovation success is critical for assessing the effectiveness of strategies and initiatives. In this chapter, we will explore how to analyze feedback and performance data and key performance indicators (KPIs) as part of measuring adaptive learning and agile innovation success.
 

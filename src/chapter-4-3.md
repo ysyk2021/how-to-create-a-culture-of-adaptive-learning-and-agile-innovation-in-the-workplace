@@ -1,5 +1,3 @@
-Using Design Thinking and Lean Startup Principles
-============================================================================================================
 
 Implementing agile methodologies and processes is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore how to use design thinking and lean startup principles as part of implementing agile methodologies and processes.
 

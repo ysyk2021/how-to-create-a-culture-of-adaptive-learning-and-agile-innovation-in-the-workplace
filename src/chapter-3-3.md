@@ -1,5 +1,3 @@
-Using Self-Reflection and Feedback Techniques
-============================================================================================================
 
 Embracing a growth mindset and continuous learning is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore how to use self-reflection and feedback techniques as part of embracing a growth mindset and continuous learning.
 

@@ -1,5 +1,3 @@
-Using Team-Building Activities and Interdisciplinary Projects
-============================================================================================================================
 
 Collaboration and cross-functional teams are essential for promoting adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of fostering collaboration and cross-functional teams using team-building activities and interdisciplinary projects.
 

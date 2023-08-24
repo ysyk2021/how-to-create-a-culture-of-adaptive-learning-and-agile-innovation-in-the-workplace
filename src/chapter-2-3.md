@@ -1,5 +1,3 @@
-Strategies for Creating a Culture of Adaptive Learning and Agile Innovation
-===============================================================
 
 In order to create a culture of adaptive learning and agile innovation in the workplace, it is first important to understand what these concepts mean and how they can be applied. Here are some strategies for creating a culture of adaptive learning and agile innovation:
 

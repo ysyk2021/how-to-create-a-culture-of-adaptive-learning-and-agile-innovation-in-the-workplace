@@ -1,5 +1,3 @@
-The Benefits of Applying Adaptive Learning and Agile Innovation Skills to Workplace Challenges
-==========================================================================================
 
 Applying adaptive learning and agile innovation skills to workplace challenges can bring numerous benefits to an organization. Here are some of the key benefits:
 

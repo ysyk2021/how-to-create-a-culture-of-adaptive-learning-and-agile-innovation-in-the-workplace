@@ -1,5 +1,3 @@
-Chapter 6: Fostering Collaboration and Cross-Functional Teams
-=============================================================
 
 Fostering collaboration and cross-functional teams is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the role of fostering collaboration and cross-functional teams in creating a culture of adaptive learning and agile innovation, strategies for doing so, and how to use team-building activities and interdisciplinary projects.
 

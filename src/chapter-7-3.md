@@ -1,5 +1,3 @@
-Using Open Communication and Constructive Feedback Practices
-===================================================================================================================
 
 Building a culture of psychological safety is critical for promoting adaptive learning and agile innovation in the workplace. In this chapter, we will explore how to use open communication and constructive feedback practices as part of building a culture of psychological safety.
 

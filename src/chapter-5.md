@@ -1,5 +1,3 @@
-Chapter 5: Encouraging Experimentation and Risk-Taking
-======================================================
 
 Encouraging experimentation and risk-taking is critical for creating a culture of adaptive learning and agile innovation in the workplace. In this chapter, we will explore the importance of encouraging experimentation and risk-taking, strategies for doing so, and how to use prototyping and minimum viable product (MVP) techniques.
 
